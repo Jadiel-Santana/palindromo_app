@@ -1,16 +1,10 @@
-# palindromo_app
+# Palindromo App
 
-A new Flutter application.
+Projeto de Palíndromo para estudos do GetX.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://user-images.githubusercontent.com/48699769/92656978-603ac000-f2ca-11ea-8817-47bfd7d3fa82.png)
+![2](https://user-images.githubusercontent.com/48699769/92656997-65980a80-f2ca-11ea-885b-6506b53027d9.png)
+![3](https://user-images.githubusercontent.com/48699769/92657003-67fa6480-f2ca-11ea-8aef-a4add045d249.png)
+![4](https://user-images.githubusercontent.com/48699769/92657016-69c42800-f2ca-11ea-9d47-3256ac21319d.png)
