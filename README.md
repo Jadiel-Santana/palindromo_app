@@ -1,4 +1,4 @@
-# Palindromo App
+# Palíndromo App
 
 Projeto de Palíndromo para estudos do GetX.
 
